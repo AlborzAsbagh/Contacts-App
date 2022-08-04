@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Contacts</string>
+    <string name="add_new_contact">Add New Contact</string>
+    <string name="name">Name</string>
+    <string name="save">Save</string>
+    <string name="phone_number">Phone</string>
+    <string name="email_address">example@email.com</string>
+    <string name="contact_s_name">CONTACT\'S NAME</string>
+    <string name="the_name">THE NAME</string>
+    <string name="the_phone">THE PHONE</string>
+    <string name="the_email">THE EMAIL</string>
+    <string name="cancel">CANCEL</string>
+    <string name="update">UPDATE</string>
+    <string name="update_your_contact_s_info">Update Your Contact\'s Info</string>
+    <string name="are_you_sure_you_want_to_delete_the_contact">Are you sure you want to delete the contact ?</string>
+    <string name="delete">DELETE</string>
+    <string name="search">Search My Contacts</string>
+</resources>
